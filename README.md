@@ -26,7 +26,7 @@ Stop wasting time with manual installations.
 3. Pick a version.
 4. **ZenvDB does the rest**: It downloads the binaries, unzips them, and configures the environment automatically.
 
-![Add Database Workflow](.github/readme/zenvdb_add_database.png)
+![Add Database Workflow](readme/zenvdb_add_database.png)
 
 ### 📊 Real-Time Resource Monitoring
 Keep an eye on your database performance without external tools. ZenvDB provides real-time metrics for every running instance:
@@ -34,7 +34,7 @@ Keep an eye on your database performance without external tools. ZenvDB provides
 - **RAM Usage**: Monitor memory consumption.
 - **Disk Usage**: See how much space your data is taking.
 
-![Metrics Panel](.github/readme/zenvdb_metrics.png)
+![Metrics Panel](readme/zenvdb_metrics.png)
 
 ### � Portable & Zero Installation
 ZenvDB is completely portable. There is **no installation required**.
@@ -45,7 +45,7 @@ ZenvDB is completely portable. There is **no installation required**.
 ### �🎨 Modern & Adaptive UI
 Built with **AvaloniaUI**, ZenvDB looks great on Windows 10 and 11. It features a sleek design that adapts to your workflow, including full support for **Light and Dark modes**.
 
-![Light and Dark Mode](.github/readme/zenvdb_light_dark_mode.png)
+![Light and Dark Mode](readme/zenvdb_light_dark_mode.png)
 
 ---
 
@@ -94,3 +94,4 @@ If you find ZenvDB useful and want to support its development, you can contribut
 <div align="center">
   <sub>Built with ❤️ for developers who love simplicity.</sub>
 </div>
+
