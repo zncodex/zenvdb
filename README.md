@@ -4,13 +4,6 @@
 
 **The Zen Way to Manage Local Databases**
 
-<p align="center">
-  <a href="#-features">Features</a> •
-  <a href="#-how-it-works">How It Works</a> •
-  <a href="#-configuration">Configuration</a> •
-  <a href="#-monitoring">Monitoring</a>
-</p>
-
 </div>
 
 ---
@@ -94,4 +87,5 @@ If you find ZenvDB useful and want to support its development, you can contribut
 <div align="center">
   <sub>Built with ❤️ for developers who love simplicity.</sub>
 </div>
+
 
