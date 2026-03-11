@@ -4,7 +4,7 @@
 
 **The Zen Way to Manage Local Databases**
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![License](https://img.shields.io/badge/License-Apache%202.0-green.svg)](LICENSE)
 [![Release](https://img.shields.io/github/v/release/zncodex/zenvdb)](https://github.com/zncodex/zenvdb/releases)
 [![Platform](https://img.shields.io/badge/platform-Windows-lightgrey?logo=windows)](https://github.com/zncodex/zenvdb/releases)
 [![Stars](https://img.shields.io/github/stars/zncodex/zenvdb?style=social)](https://github.com/zncodex/zenvdb/stargazers)
@@ -132,3 +132,4 @@ If you find ZenvDB useful and want to support its development, you can contribut
 <div align="center">
   <sub>Built with ❤️ for developers who love simplicity.</sub>
 </div>
+
