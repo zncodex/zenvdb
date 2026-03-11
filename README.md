@@ -1,8 +1,13 @@
-# ZenvDB 🚀
-
 <div align="center">
 
+# ZenvDB 🚀
+
 **The Zen Way to Manage Local Databases**
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Release](https://img.shields.io/github/v/release/zncodex/zenvdb)](https://github.com/zncodex/zenvdb/releases)
+[![Platform](https://img.shields.io/badge/platform-Windows-lightgrey?logo=windows)](https://github.com/zncodex/zenvdb/releases)
+[![Stars](https://img.shields.io/github/stars/zncodex/zenvdb?style=social)](https://github.com/zncodex/zenvdb/stargazers)
 
 </div>
 
@@ -29,13 +34,13 @@ Keep an eye on your database performance without external tools. ZenvDB provides
 
 ![Metrics Panel](readme/zenvdb_metrics.png)
 
-### � Portable & Zero Installation
+### 🧳 Portable & Zero Installation
 ZenvDB is completely portable. There is **no installation required**.
 - **Run Anywhere**: Works on any machine with Windows.
 - **No Admin Rights**: You don't need administrator privileges to run it.
 - **USB Ready**: Carry it on a USB drive and have your databases ready to go instantly.
 
-### �🎨 Modern & Adaptive UI
+### 🎨 Modern & Adaptive UI
 Built with **AvaloniaUI**, ZenvDB looks great on Windows 10 and 11. It features a sleek design that adapts to your workflow, including full support for **Light and Dark modes**.
 
 ![Light and Dark Mode](readme/zenvdb_light_dark_mode.png)
@@ -69,12 +74,50 @@ The application parses this file at startup, giving you total control over what 
 
 ## 🚀 Getting Started
 
-1. **Download** the latest release.
+1. **Download** the latest release from the [Releases page](https://github.com/zncodex/zenvdb/releases).
 2. **Run** `ZenvDB.exe`.
 3. **Click** the "+" button to add your first database.
 4. **Relax** while ZenvDB sets it up.
 
+---
 
+## 🗺️ Roadmap
+
+Here's what's planned for future releases:
+
+- [ ] Linux support (Ubuntu / Debian)
+- [ ] macOS support
+- [ ] Built-in SQL query editor with syntax highlighting
+- [ ] Import / Export (CSV, JSON, SQL dump)
+- [ ] SSL/TLS connection support
+- [ ] Query history and saved queries
+
+Have an idea? [Open a feature request →](https://github.com/zncodex/zenvdb/issues/new)
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome — bug fixes, features, docs, translations, anything helps!
+
+```bash
+# 1. Fork the repository
+# 2. Clone your fork
+git clone https://github.com/YOUR_USERNAME/zenvdb.git
+
+# 3. Create a branch
+git checkout -b feature/your-feature-name
+
+# 4. Commit your changes
+git commit -m "feat: describe your change"
+
+# 5. Push and open a Pull Request
+git push origin feature/your-feature-name
+```
+
+Not sure where to start? Look for issues labeled [`good first issue`](https://github.com/zncodex/zenvdb/issues?q=label%3A%22good+first+issue%22).
+
+---
 
 ## ☕ Support the Project
 
@@ -84,8 +127,8 @@ If you find ZenvDB useful and want to support its development, you can contribut
   <img src="https://img.shields.io/badge/Donate-PayPal-00457C.svg?style=for-the-badge&logo=paypal&logoColor=white" alt="Donate with PayPal" />
 </a>
 
+---
+
 <div align="center">
   <sub>Built with ❤️ for developers who love simplicity.</sub>
 </div>
-
-
